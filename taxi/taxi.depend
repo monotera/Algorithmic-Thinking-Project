@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542609068 source:c:\users\user\desktop\c++\taxi\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
